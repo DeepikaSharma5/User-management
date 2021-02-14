@@ -5,3 +5,5 @@ This is a **multi module** *maven* project I did for first time using ***Intelli
 Added a line in hot -fix
 
 Added this line in master branch
+
+Added a second line in hot-fix branch
